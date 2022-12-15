@@ -1,4 +1,4 @@
-# CRUD-Java_SQL
+# CRUD-Java_PostgreSQL
 
 Breve formato de CRUD em sistema baseado em SQL utilizando linguagem Java. Com recursos compartilhados entre Servlets, Entidade e Persistência. Também foram utilizadas páginas 
 no formato Java Server Pages para utilização com os Servlets. O banco de dados está em SQL. Deixei bem pequeno apenas para teste. Caso você se interesse no formato, envie uma
